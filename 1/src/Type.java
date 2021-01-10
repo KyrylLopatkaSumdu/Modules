@@ -1,0 +1,1 @@
+public enum Type { SECOND, REGULAR, SALE, DISCOUNT }
